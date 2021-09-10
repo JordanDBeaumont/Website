@@ -28,12 +28,15 @@ education:
   - course: PhD in Nutrition
     institution: Leeds Trinity University
     year: 2017 - Present
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PGCert Higher Education
+    institution: Leeds Trinity University
+    year: 2018 - 2019
+  - course: MMedSci Human Nutrition
+    institution: University of Sheffield
+    year: 2013 - 2014
+  - course: BSc (Hons) Nutrition and Food
+    institution: Leeds Trinity University
+    year: 2010 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
