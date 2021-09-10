@@ -15,7 +15,7 @@ authors:
 # Author notes (optional)
 
 date: "2021-02-01"
-doi: "https://doi.org/10.1016/j.appet.2020.105004"
+doi: "10.1016/j.appet.2020.105004"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference abstract; 2 = Journal article; 3 = Systematic review / Meta-analysis; 4 = Preprint / Working Paper; 5 = Report; 6 = Book; 7 = Book section; 8 = Thesis; 9 = Patent
@@ -40,7 +40,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'C:\Hugo\Sites\Website\content\publication\beaumont-2021-appetite\pdf.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
