@@ -14,17 +14,12 @@ authors:
 
 # Author notes (optional)
 
-date: "February 2021"
+date: "2021-02-01"
 doi: "https://doi.org/10.1016/j.appet.2020.105004"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2021-02"
-
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Legend: 0 = Uncategorized; 1 = Conference abstract; 2 = Journal article; 3 = Systematic review / Meta-analysis; 4 = Preprint / Working Paper; 5 = Report; 6 = Book; 7 = Book section; 8 = Thesis; 9 = Patent
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
@@ -35,7 +30,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [tDCS, Food reward, Food craving, Subjective appetite]
 
 # Display this page in the Featured widget?
 featured: true
