@@ -22,9 +22,10 @@ doi: "https://doi.org/10.1016/j.appet.2020.105004"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Appetite*
+publication: "*Appetite*, **157**"
+publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The ability to control hedonic appetite is associated with executive functioning, originating in the prefrontal cortex (PFC). These rewarding components of food can override homeostatic mechanisms, potentiating obesogenic behaviours. Indeed, those susceptible to overconsumption appear to have PFC hypo-activation. Transcranial direct current stimulation (tDCS) over the dorsolateral PFC (DLPFC) has been shown to reduce food craving and consumption, potentially via attenuating this reward response. We examined the effects of stimulation on food reward and craving using a healthy-weight cohort. This study is amongst the first to explore the effects of tDCS on explicit and implicit components of reward for different food categories. Twenty-one healthy-weight participants (24 ± 7 years, 22.8 ± 2.3 kg m−2) completed two sessions involving double-blind, randomised and counterbalanced anodal or sham tDCS over the right DLPFC, at 2 mA for 20 min. Food craving (Food Craving Questionnaire-State), reward (Leeds Food Preference Questionnaire), and subjective appetite (100 mm visual analogue scales) were measured pre- and post-tDCS. Eating behaviour trait susceptibility was assessed using the Three Factor Eating Questionnaire-Short Form, Control of Eating Questionnaire, and Food Craving Questionnaire-Trait-reduced. Stimulation did not alter food craving, reward or appetite in healthy-weight participants who displayed low susceptibility to overconsumption, with low trait craving, good craving control, and low uncontrolled eating and emotional eating behaviour. Implicit and explicit reward were reliable measures of hedonic appetite, suggesting these are robust targets for future tDCS research. These findings suggest that applying tDCS over the DLPFC does not change food reward response in individuals not at risk for overconsumption, and future work should focus on those at risk of overconsumption who may be more responsive to the effects of tDCS on hedonic appetite.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -39,7 +40,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'C:\Hugo\Sites\Website\content\publication\beaumont-2021-appetite\pdf.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
