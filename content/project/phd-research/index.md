@@ -1,9 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: NIBS & Eating Behaviour
+summary: Exploring the effects of non-invasive brain stimulation (NIBS) techniques on measures of reward-driven eating behaviour.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- NIBS
+- Eating behaviour
+date: "2017-10-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

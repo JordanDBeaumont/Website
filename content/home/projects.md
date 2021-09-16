@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 50
 
 title: Projects
 subtitle: ''
@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: NIBS
+    tag: NIBS
+  - name: Eating behaviour
+    tag: Eating behaviour
   - name: Other
     tag: Demo
 

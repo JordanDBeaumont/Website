@@ -7,27 +7,27 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
-title: Research Interests
+title: Accreditations & Memberships
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
-  icon: balance-scale
+- description: Registered Nutritionist with the Association for Nutrition
+  icon: apple-alt
   icon_pack: fas
-  name: Weight Management & Obesity
-- description: 
-  icon: brain
+  name: RNutr (Public Health)
+- description: Fellow of the Higher Education Academy
+  icon: chalkboard-teacher
   icon_pack: fas
-  name: Non-Invasive Brain Stimulation (NIBS)
-- description: 
-  icon: utensils
+  name: FHEA
+- description: Association for the Study of Obesity
+  icon: users
   icon_pack: fas
-  name: Eating Behaviour
+  name: Member
 
 
 # Uncomment to use emoji icons.

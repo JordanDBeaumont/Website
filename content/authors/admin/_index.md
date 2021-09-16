@@ -46,19 +46,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:j.beaumont@leedstrinity.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JordanDBeaumont
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jordandbeaumont
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-9861-3379
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Jordan-Beaumont
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+- icon: university
+  icon_pack: fas
+  link: https://research.leedstrinity.ac.uk/en/persons/jordan-beaumont(1f84ce45-c3d0-4d89-a004-583a828896e7).html
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,8 +81,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jordan Beaumont is a PhD student at Leeds Trinity University, where his research examines the effects of non-invasive brain stimulation (NIBS) techniques on reward-driven eating behaviours (e.g. food cravings, food consumption).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With an interest in obesity, Jordan has previous worked as a freelance nutritionist specialising in weight management. Alongside research, he also contributes to a wide range of nutrition, sport and psychology modules for undergraduate and postgraduate students, as well as supervising masters dissertation projects.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
