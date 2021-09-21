@@ -14,14 +14,14 @@ organizations:
   url: http://www.leedstrinity.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include obesity and weight management, non-invasive brain stimulation (NIBS) techniques, and eating behaviour.
 
 # Interests to show in About widget
 interests:
 - Obesity
 - Weight management
 - Non-invasive brain stimulation (NIBS)
-- Reward-driven (hedonic) appetite
+- Eating behaviour
 
 # Education to show in About widget
 education:
@@ -81,8 +81,6 @@ email: ""
 highlight_name: true
 ---
 
-Jordan Beaumont is a PhD student at Leeds Trinity University, where his research examines the effects of non-invasive brain stimulation (NIBS) techniques on reward-driven eating behaviours (e.g. food cravings, food consumption).
-
-With an interest in obesity, Jordan has previous worked as a freelance nutritionist specialising in weight management. Alongside research, he also contributes to a wide range of nutrition, sport and psychology modules for undergraduate and postgraduate students, as well as supervising masters dissertation projects.
+I'm currently completing my PhD in Nutrition at Leeds Trinity University, where I examine the effects of non-invasive brain stimulation (NIBS) techniques on reward-driven eating behaviours (e.g. food cravings, food consumption). I also teach across nutrition, sport and psychology modules at undergraduate and postgraduate level, and supervise masters dissertation students.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
