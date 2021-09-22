@@ -27,17 +27,17 @@ interests:
 education:
   courses:
   - course: PhD in Nutrition
-    institution: Leeds Trinity University
-    year: 2017 - Present
+    institution: Leeds Trinity University (2017 - Present)
+    year:
   - course: PGCert Higher Education
-    institution: Leeds Trinity University
-    year: 2018 - 2019
+    institution: Leeds Trinity University (2018 - 2019)
+    year:
   - course: MMedSci Human Nutrition
-    institution: University of Sheffield
-    year: 2013 - 2014
+    institution: University of Sheffield (2013 - 2014)
+    year:
   - course: BSc (Hons) Nutrition and Food
-    institution: Leeds Trinity University
-    year: 2010 - 2013
+    institution: Leeds Trinity University (2010 - 2013)
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
