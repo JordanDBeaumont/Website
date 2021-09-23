@@ -89,7 +89,9 @@ I'm currently completing my PhD in Nutrition at Leeds Trinity University, where 
 
 </p>
 
-![RNutr](/static/media/afn-rnutr.png)
+
+
+<img src="https://github.com/JordanDBeaumont/Website/blob/master/static/media/afn-rnutr.png?raw=true" width="150" height="150" /><img src="https://github.com/JordanDBeaumont/Website/blob/master/static/media/afn-rnutr.png?raw=true" width="150" height="150" />
 
 
 {{< icon name="apple-alt" pack="fas" >}} Registered Nutritionist (RNutr) (Public Health)
