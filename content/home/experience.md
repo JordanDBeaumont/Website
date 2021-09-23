@@ -34,6 +34,9 @@ experience:
         
         * Weight Management: Social and Behavioural Aspects
         * Promoting and Communicating Public Health Issues
+        </br></br>
+
+        Supervise MSc dissertation students.
         
   - title: Associate Lecturer in Food and Nutrition
     company: Sheffield Hallam University
@@ -42,8 +45,40 @@ experience:
     location: Sheffield, UK
     date_start: '2021-03-01'
     date_end: ''
-    description: Contribute to a series of undergraduate and postgraduate modules, and supervise MSc dissertations.
+    description:  |2-
+        Module tutor:
+    
+        * Food Perception and Consumer Behaviour (level 6)
+        * Interventions for Weight Management (level 7)
+        </br></br>
 
+        Supervise MSc dissertation students.
+
+  - title: Teaching Assistant
+    company: Leeds Trinity University
+    company_url: ''
+    company_logo: ltu
+    location: Leeds, UK
+    date_start: '2017-09-01'
+    date_end: '2021-08-30'
+    description: |2-
+        Module tutor:
+        
+        * Foundation Project (level 3)
+        * Introduction to Food and Nutrition (level 4)
+        * Ethics, Society and Exployability (level 4)
+        * Nutritional Biochemistry and Exercise for Health (level 5)
+        * Nutrition for Sport and Exericse (level 5)
+        * REPs Personal Trainer Award (level 5)
+        * Healthy Weight: Practical Strategies (level 6)
+        * Advanced Nutrition for Sport and Exericse (level 6)
+        </br></br>
+
+        Session contributor:
+        
+        * Sport and Exercise Sciences (level 4)
+        * Cognition and the Brain (level 4)
+        
   - title: Course Leader for Health and Nutrition
     company: Leeds Mind (Converge Project)
     company_url: ''

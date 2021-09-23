@@ -7,27 +7,31 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 85
 
-title: Accreditations & Memberships
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Registered Nutritionist with the Association for Nutrition
-  icon: apple-alt
+- description: " "
+  icon: brain
   icon_pack: fas
-  name: RNutr (Public Health)
-- description: Fellow of the Higher Education Academy
-  icon: chalkboard-teacher
+  name: Transcranial direct current stimulation (tDCS)
+- description: " "
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: " "
+  icon: search
   icon_pack: fas
-  name: FHEA
-- description: Association for the Study of Obesity
-  icon: users
+  name: Bayesian statistics
+- description: " "
+  icon: first-aid
   icon_pack: fas
-  name: Member
+  name: First aid
 
 
 # Uncomment to use emoji icons.
