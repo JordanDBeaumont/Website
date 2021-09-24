@@ -2,7 +2,7 @@
 widget: blank
 
 # Order that this section appears on the page.
-weight: 5
+weight: 10
 ---
 
 <p align="center">
@@ -25,7 +25,11 @@ weight: 5
 &nbsp;
 <a href="https://www.researchgate.net/profile/Jordan-Beaumont"><i class="fab fa-researchgate" size="5"></i></a>
 &nbsp;
-<a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"><i class="fas fa-user-graduate" size="5"></i></a>
+<a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"><i class="ai ai-google-scholar" size="5"></i></a>
 &nbsp;
 <a href="https://research.leedstrinity.ac.uk/en/persons/jordan-beaumont(1f84ce45-c3d0-4d89-a004-583a828896e7).html"><i class="fas fa-university" size="5"></i></a>
+&nbsp;
+<a href=""><i class="ai ai-cv" size="5"></i></a>
+&nbsp;
+<a href="/blog/"><i class="fab fa-microblog" size="5"></i></a>
 </h1>

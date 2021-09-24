@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 100
 
 title: Experience
 subtitle:
@@ -32,8 +32,8 @@ experience:
     description: |2-
         Module leader:
         
-        * Weight Management: Social and Behavioural Aspects
-        * Promoting and Communicating Public Health Issues
+        * Weight Management: Social and Behavioural Aspects (level 7)
+        * Promoting and Communicating Public Health Issues (level 5)
         </br></br>
 
         Supervise MSc dissertation students.
@@ -109,3 +109,20 @@ experience:
 design:
   columns: '2'
 ---
+## Selected Skills:
+
+<span style="font-size:1.2em;color:#808080;">Research</span>
+
+<span style="color:#e83845;font-size:1.2em;">{{< icon name="brain" pack="fas" >}}</span> Transcranial direct current stimulation (tDCS)
+
+<span style="color:#e83845;font-size:1.2em;">{{< icon name="r-project" pack="fab" >}}</span> R / R Studio
+
+<span style="color:#e83845;font-size:1.2em;">{{< icon name="calculator" pack="fas" >}}</span> Bayesian statistics
+
+<span style="font-size:1.2em;color:#808080;">Other</span>
+
+<span style="color:#e83845;font-size:1.2em;">{{< icon name="first-aid" pack="fas" >}}</span> First aid
+
+</br>
+
+## Employment:

@@ -5,23 +5,27 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#about-me'
     weight: 10
-  - name: Blog
-    url: '#posts'
-    weight: 20
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 20
   - name: Publications
     url: '#publications'
-    weight: 40
+    weight: 30
   - name: Presentations and Talks
     url: '#talks'
-    weight: 50
+    weight: 40
   - name: Experience
     url: '#experience'
+    weight: 50
+  - name: '|'
+    weight: 55
+  - name: <b>Blog</b>
+    url: '/blog/'
     weight: 60
+  - name: ' '
+    weight: 65
 
 
 # Link to a PDF of your resume/CV from the menu.
