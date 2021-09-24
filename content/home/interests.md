@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Research Interests
-subtitle:
+subtitle: </br>
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
