@@ -22,25 +22,28 @@ organizations:
 bio: My research interests include obesity and weight management, non-invasive brain stimulation (NIBS) techniques, and eating behaviour.
 
 # Interests to show in About widget
-# interests:
-# - 
+interests:
+ - Obesity
+ - Weight management
+ - Eating behaviour
+ - Non-invasive brain stimulation (NIBS)
 
 
 # Education to show in About widget
-#education:
-#  courses:
-#  - course: PhD in Nutrition
-#    institution: Leeds Trinity University (2017 - Present)
-#    year:
-#  - course: PGCert Higher Education
-#    institution: Leeds Trinity University (2018 - 2019)
-#    year:
-#  - course: MMedSci Human Nutrition
-#    institution: University of Sheffield (2013 - 2014)
-#    year:
-#  - course: BSc (Hons) Nutrition and Food
-#    institution: Leeds Trinity University (2010 - 2013)
-#    year:
+education:
+  courses:
+  - course: PhD in Nutrition
+    institution: Leeds Trinity University (2017 - Present)
+    year:
+  - course: PGCert Higher Education
+    institution: Leeds Trinity University (2018 - 2019)
+    year:
+  - course: MMedSci Human Nutrition
+    institution: University of Sheffield (2013 - 2014)
+    year:
+  - course: BSc (Hons) Nutrition and Food
+    institution: Leeds Trinity University (2010 - 2013)
+    year:
 
 
 # Social/Academic Networking
@@ -85,15 +88,3 @@ email: ""
 highlight_name: true
 
 ---
-I'm currently completing my PhD in Nutrition at Leeds Trinity University, where I examine the effects of non-invasive brain stimulation (NIBS) techniques on reward-driven eating behaviours (e.g. food cravings, food consumption). I also teach across nutrition, sport and psychology modules at undergraduate and postgraduate level, and supervise masters dissertation students.
-
-</p>
-
-
-
-<img src="https://github.com/JordanDBeaumont/Website/blob/master/static/media/afn-rnutr.png?raw=true" width="150" height="150" /><img src="https://github.com/JordanDBeaumont/Website/blob/master/static/media/afn-rnutr.png?raw=true" width="150" height="150" />
-
-
-{{< icon name="apple-alt" pack="fas" >}} Registered Nutritionist (RNutr) (Public Health)
-
-{{< icon name="chalkboard-teacher" pack="fas" >}} Fellow of the Higher Education Academy (FHEA)
