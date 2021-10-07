@@ -44,7 +44,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: nibs-workshop-2021
 url_slides: ""
 url_video: ""
 

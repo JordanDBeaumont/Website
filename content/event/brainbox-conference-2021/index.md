@@ -37,7 +37,7 @@ authors:
 tags: [tDCS, Eating behaviour traits, Food reward, Food craving, Subjective appetite]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 
@@ -64,7 +64,3 @@ slides: ""
 projects: 
   - nibs-eating-behaviour
 ---
-{{ < embed-pdf url=".content/event/brainbox-conference-2021/brainbox-conference-2021.pdf" > }}
-
-<embed src="content/event/brainbox-conference-2021/brainbox-conference-2021.pdf" 
- type="application/pdf">
