@@ -46,6 +46,16 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+links:
+- name: Article
+  url: https://doi.org/10.1016/j.appet.2020.105004
+- name: PDF
+  url:
+- name: Conference Abstract
+  url: https://www.obesity-abstracts.org/ob/0001/ob0001rfc1.1
+- name: Supplementary Material
+  url: 
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -59,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+  - nibs-eating-behaviour
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

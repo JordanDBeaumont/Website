@@ -50,6 +50,8 @@ experience:
     
         * Food Perception and Consumer Behaviour (level 6)
         * Interventions for Weight Management (level 7)
+        * Nutritional Physiology and Biochemistry (level 7)
+        * Research Methods (level 7)
         </br></br>
 
         Supervise MSc dissertation students.

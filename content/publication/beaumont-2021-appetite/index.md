@@ -49,22 +49,10 @@ url_source: ''
 url_video: ''
 
 links:
-- name: Article
-  icon: link
-  icon_pack: fas
+- name: Article (DOI)
   url: https://doi.org/10.1016/j.appet.2020.105004
-- name: PDF
-  icon: file-pdf
-  icon_pack: fas
-  url:
 - name: Conference Abstract
-  icon: chalkboard-teacher
-  icon_pack: fas
   url: https://www.obesity-abstracts.org/ob/0001/ob0001rfc1.1
-- name: Supplementary Material
-  icon: file
-  icon_pack: fas
-  url: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -78,7 +66,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - nibs-eating-behaviour
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -89,7 +78,7 @@ slides: ""
 ---
 
 **Cite this article**
-> Beaumont, J. D., Davis, D., Dalton, M., Nowicky, A., Russell, M., & Barwood, M. J. (2021). The effect of transcranial direct current stimulation (tDCS) on food craving, reward and appetite in a healthy population. Appetite, 157, 105004. https://doi.org/10.1016/j.appet.2020.105004
+> Beaumont, J.D., Davis, D., Dalton, M., Nowicky, A., Russell, M., & Barwood, M.J. (2021). The effect of transcranial direct current stimulation (tDCS) on food craving, reward and appetite in a healthy population. Appetite, 157, 105004. https://doi.org/10.1016/j.appet.2020.105004
 
 </br>
 

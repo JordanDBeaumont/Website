@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-#widget: portfolio
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -46,8 +46,6 @@ content:
     tag: NIBS
   - name: Eating behaviour
     tag: Eating behaviour
-  - name: Other
-    tag: Demo
 
 design:
   # Choose a view for the listings:
