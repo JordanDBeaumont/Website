@@ -36,6 +36,12 @@ experience:
         * Promoting and Communicating Public Health Issues (level 5)
         </br></br>
 
+        Module tutor:
+
+        * Physical Activity for Health
+        * Foundation Project
+        </br></br>
+
         Supervise MSc dissertation students.
         
   - title: Associate Lecturer in Food and Nutrition

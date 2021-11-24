@@ -2,7 +2,7 @@
 title: Modulating eating behaviour with transcranial direct current stimulation (tDCS) - A systematic literature review on the impact of eating behaviour traits
 
 
-event: BrainBox Conference 2021
+event: BrainBox Initiative Conference 2021
 event_url: https://brainbox-initiative.com/conference/2021
 
 location: Online
