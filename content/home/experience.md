@@ -38,8 +38,8 @@ experience:
 
         Module tutor:
 
-        * Physical Activity for Health
-        * Foundation Project
+        * Physical Activity for Health (level 5)
+        * Foundation Project (level 3)
         </br></br>
 
         Supervise MSc dissertation students.
