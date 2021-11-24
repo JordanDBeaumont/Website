@@ -38,8 +38,9 @@ experience:
 
         Module tutor:
 
-        * Physical Activity for Health (level 5)
         * Foundation Project (level 3)
+        * Physical Activity for Health (level 5)
+        
         </br></br>
 
         Supervise MSc dissertation students.
@@ -72,7 +73,6 @@ experience:
     description: |2-
         Module tutor:
         
-        * Foundation Project (level 3)
         * Introduction to Food and Nutrition (level 4)
         * Ethics, Society and Exployability (level 4)
         * Nutritional Biochemistry and Exercise for Health (level 5)
