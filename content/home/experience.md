@@ -40,7 +40,7 @@ experience:
 
         * Foundation Project (level 3)
         * Physical Activity for Health (level 5)
-        
+        * Nutritional Biochemistry and Exercise for Health (level 5)
         </br></br>
 
         Supervise MSc dissertation students.

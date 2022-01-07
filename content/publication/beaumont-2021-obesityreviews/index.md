@@ -12,14 +12,14 @@ authors:
 - Martin J. Barwood
 
 date: "2021-09-10"
-doi: "10.1111/obr.13364"
+doi: 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article; # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section; 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Obesity Reviews*, **Accepted**"
+publication: "*Obesity Reviews*, (**e13364**)"
 publication_short: ""
 
 abstract: Transcranial direct current stimulation (tDCS) is becoming an increasingly popular technique for altering eating behaviours. Recent research suggests a possible eating behaviour trait-dependent effect of tDCS. However, studies recruit participant populations with heterogeneous trait characteristics, including “healthy” individuals who do not present with eating behaviour traits suggesting susceptibility to overconsumption. The present review considers the effects of tDCS across eating-related measures, and explores whether a trait-dependent effect is evident across the literature. A literature search identified 28 articles using sham-controlled tDCS to modify eating-related measures. Random effects meta-analyses were performed, with subgroup analyses to identify differences between “healthy” and trait groups. Trivial overall effects (*g* = -0.12 to 0.09) of active versus sham tDCS were found. Subgroup analyses showed a more consistent effect for trait groups, with small and moderate effect size (*g* = -1.03 to 0.60), suggesting tDCS is dependent on participants’ eating behaviour traits. Larger effect sizes were found for those displaying traits associated with study outcomes (e.g. heightened food cravings). “Healthy” individuals appear to be unresponsive to stimulation. Based on this meta-data, future work should recruit those with eating behaviour trait susceptibilities to overconsumption, focussing on those who present with traits associated with the outcome of interest.
@@ -47,19 +47,13 @@ url_source: ''
 url_video: ''
 
 links:
-- name: Article
-  url: https://doi.org/10.1016/j.appet.2020.105004
-- name: PDF
-  url:
-- name: Conference Abstract
-  url: https://www.obesity-abstracts.org/ob/0001/ob0001rfc1.1
-- name: Supplementary Material
-  url: 
+- name: Article (DOI)
+  url: https://doi.org/10.1111/obr.13364
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: Wiley'
   focal_point: ""
   preview_only: false
 
@@ -76,15 +70,24 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+**Cite this article**
+> Beaumont, J.D., Smith, N.C., Starr, D., Davis, D., Dalton, M., Nowicky, A., Russell, M. and Barwood, M.J. 2021. Modulating eating behavior with transcranial direct current stimulation (tDCS): A systematic literature review on the impact of eating behavior traits. Obesity Reviews. (e13364). https://doi.org/10.1111/obr.13364
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+</br>
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+**Article Metrics**
+<div style="margin-left:1rem;position:absolute">
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class='altmetric-embed' data-badge-type='donut' class='altmetric-embed' data-badge-popover='right' data-doi="10.1111/obr.13364"></div></div>
+
+<div style="margin-left:5rem;;margin-top:-1.5rem;position:absolute">
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1111/obr.13364" class="plumx-plum-print-popup" data-popup="right"></a>
+</div>
+
+</br>
+</br>
+</br>

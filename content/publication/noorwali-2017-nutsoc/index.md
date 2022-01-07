@@ -35,15 +35,13 @@ featured: true
 # Custom links
 links:
 - name: Conference Abstract
-  icon: chalkboard-teacher
-  icon_pack: fas
   url: https://doi.org/10.1017/S0029665117000064
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Image credit: Cambridge University Press'
   focal_point: ""
   preview_only: false
 
