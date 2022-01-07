@@ -10,7 +10,7 @@ date: "2017-10-01"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Image by Jordan D. Beaumont
   focal_point: Smart
 
 links:
