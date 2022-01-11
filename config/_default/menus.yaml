@@ -21,11 +21,16 @@ main:
     weight: 50
   - name: '|'
     weight: 55
-  - name: <b>Blog</b>
-    url: '/blog/'
-    weight: 60
+#  - name: <b>Blog</b>
+#    url: '/blog/'
+#    weight: 60
+#  - name: ' '
+#    weight: 65
+  - name: External Media
+    url: '/external/'
+    weight: 70
   - name: ' '
-    weight: 65
+    weight: 75
 
 
 # Link to a PDF of your resume/CV from the menu.
