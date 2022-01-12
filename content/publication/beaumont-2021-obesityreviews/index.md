@@ -74,7 +74,7 @@ slides: ""
 ---
 
 **Cite this article**
-> Beaumont, J.D., Smith, N.C., Starr, D., Davis, D., Dalton, M., Nowicky, A., Russell, M. and Barwood, M.J. 2021. Modulating eating behavior with transcranial direct current stimulation (tDCS): A systematic literature review on the impact of eating behavior traits. Obesity Reviews. (e13364). https://doi.org/10.1111/obr.13364
+> Beaumont, J.D., Smith, N.C., Starr, D., Davis, D., Dalton, M., Nowicky, A., Russell, M. and Barwood, M.J. 2022. Modulating eating behavior with transcranial direct current stimulation (tDCS): A systematic literature review on the impact of eating behavior traits. Obesity Reviews. 23(2), pe13364. https://doi.org/10.1111/obr.13364
 
 </br>
 
