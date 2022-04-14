@@ -62,7 +62,17 @@ experience:
         * Research Methods (level 7)
         </br></br>
 
-        Supervise MSc dissertations (9 students).
+        Supervise MSc dissertation students (n = 9) working across projects exploring eating behaviour and executive functioning, weight bias/stigma, and the perceptions of health.
+
+  - title: Laboratory Technician
+    company: University of Leeds
+    company_url: ''
+    company_logo: uol
+    location: Leeds, UK
+    date_start: '2021-07-12'
+    date_end: ''
+    description: |2-
+        Working on the EU-funded SWEET study, looking at the effects of sugar replacements in the diet. Role involves working in wet laboratory, centrifuging, aliquoting and storing biological samples.
 
   - title: Teaching Assistant
     company: Leeds Trinity University
@@ -127,6 +137,8 @@ design:
 <span style="color:#e83845;font-size:1.2em;">{{< icon name="r-project" pack="fab" >}}</span> R / R Studio
 
 <span style="color:#e83845;font-size:1.2em;">{{< icon name="calculator" pack="fas" >}}</span> Bayesian statistics
+
+<span style="color:#e83845;font-size:1.2em;">{{< icon name="file-alt" pack="fas" >}}</span> Systematic reviews and meta-analysis
 
 <span style="font-size:1.2em;color:#808080;">Other</span>
 

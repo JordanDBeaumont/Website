@@ -19,18 +19,17 @@ main:
   - name: Experience
     url: '#experience'
     weight: 50
-  - name: '|'
-    weight: 55
+  - name: ' '
+    url: '#experience'
+    weight: 50
 #  - name: <b>Blog</b>
 #    url: '/blog/'
-#    weight: 60
-#  - name: ' '
-#    weight: 65
-  - name: External Media
-    url: '/external/'
-    weight: 70
+#    weight: 55
+  - name: External Media & Blogs
+    url: '#external-media'
+    weight: 60
   - name: ' '
-    weight: 75
+    weight: 65
 
 
 # Link to a PDF of your resume/CV from the menu.

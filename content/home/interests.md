@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -9,51 +9,29 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Research Interests
-subtitle: </br>
-
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: 
-  icon: balance-scale
-  icon_pack: fas
-  name: Weight Management & Obesity
-- description: 
-  icon: bolt
-  icon_pack: fas
-  name: Non-Invasive Brain Stimulation (NIBS)
-- description: 
-  icon: utensils
-  icon_pack: fas
-  name: Eating Behaviour
-- description: 
-  icon: 
-  icon_pack: 
-  name: 
-- description: 
-  icon: brain
-  icon_pack: fas
-  name: Executive Functions
-- description: 
-  icon: 
-  icon_pack: 
-  name: 
-
-
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place your custom SVG icon in `assets/media/icons/`.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
 ---
+<h1 style="text-align:center">Research Interests</h1>
+
+</br>
+
+<style>
+.education {
+  column-count: 2;
+  row-count: 2;
+}
+</style>
+<div class="education">
+
+<p style="text-align:center;"><span style="color:#e83845;font-size:3em;">{{< icon name="balance-scale" pack="fas" >}}</span></br>Weight Management & Obesity
+</span></p>
+
+<p style="text-align:center;"><span style="color:#e83845;font-size:3em;">{{< icon name="utensils" pack="fas" >}}</span></br>Eating Behaviour
+</span></p>
+
+<p style="text-align:center;"><span style="color:#e83845;font-size:3em;">{{< icon name="bolt" pack="fas" >}}</span></br>Non-Invasive Brain Stimulation (NIBS)
+</span></p>
+
+<p style="text-align:center;"><span style="color:#e83845;font-size:3em;">{{< icon name="brain" pack="fas" >}}</span></br>Executive Functions
+</span></p>
+
+</div>

@@ -52,7 +52,7 @@ links:
 - name: Article (DOI)
   url: https://doi.org/10.1016/j.appet.2020.105004
 - name: Conference Abstract
-  url: https://www.obesity-abstracts.org/ob/0001/ob0001rfc1.1
+  url: https://jordanbeaumont.netlify.app/publication/beaumont-2019-obesityabstracts/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
