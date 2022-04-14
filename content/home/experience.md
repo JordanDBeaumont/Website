@@ -44,7 +44,7 @@ experience:
         * Research Methods (level 5)
         </br></br>
 
-        Supervise MSc dissertation students.
+        Supervise MSc dissertations (1 student).
         
   - title: Associate Lecturer in Food and Nutrition
     company: Sheffield Hallam University
@@ -62,7 +62,7 @@ experience:
         * Research Methods (level 7)
         </br></br>
 
-        Supervise MSc dissertation students.
+        Supervise MSc dissertations (9 students).
 
   - title: Teaching Assistant
     company: Leeds Trinity University

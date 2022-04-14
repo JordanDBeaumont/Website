@@ -21,13 +21,25 @@ feature:
   icon_pack: fas
   name: Weight Management & Obesity
 - description: 
-  icon: brain
+  icon: bolt
   icon_pack: fas
   name: Non-Invasive Brain Stimulation (NIBS)
 - description: 
   icon: utensils
   icon_pack: fas
   name: Eating Behaviour
+- description: 
+  icon: 
+  icon_pack: 
+  name: 
+- description: 
+  icon: brain
+  icon_pack: fas
+  name: Executive Functions
+- description: 
+  icon: 
+  icon_pack: 
+  name: 
 
 
 # Uncomment to use emoji icons.

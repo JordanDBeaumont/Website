@@ -31,6 +31,8 @@ content:
     tag: NIBS
   - name: Eating behaviour
     tag: Eating behaviour
+  - name: Executive function
+    tag: Executive function
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
