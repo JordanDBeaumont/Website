@@ -4,7 +4,7 @@ title: The effects of probiotic supplementation on emotional memory and pain res
 event: Nutrition Society Winter Conference 2016
 event_url: https://www.nutritionsociety.org/events/winter-conference-2016-diet-nutrition-and-mental-health-and-wellbeing
 
-location: Royal Society of Medicine, London
+location: Royal Society of Medicine, London, UK
 address:
   street: 
   city: 

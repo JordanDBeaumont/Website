@@ -1,10 +1,11 @@
 ---
-title: Effective transcranial direct current stimulation (tDCS) parameters for the modulation of eating behaviour - A systematic literature review
+title: Transcranial direct current stimulation (tDCS) - A demonstration
 
-event: Non-Invasive Brain Stimulation Workshop 2021
-event_url: https://nibs-workshop.umn.edu/
 
-location: University of Minnesota (Online)
+event: 
+event_url: 
+
+location: Leeds Trinity University, UK
 address:
   street: 
   city: 
@@ -12,13 +13,13 @@ address:
   postcode: 
   country: 
 
-summary: Traditional poster presentation.
+summary: Organised event providing a demonstration of tDCS, a new technique to the institution.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-03"
-date_end: "2021-06-04"
+date: "2018-10-17"
+date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -26,15 +27,8 @@ publishDate: "2021-10-07"
 
 authors:
 - admin
-- Natalie C. Smith
-- David Starr
-- Danielle Davis
-- Michelle Dalton
-- Alexander Nowicky
-- Mark Russell
 - Martin J. Barwood
-
-tags: [tDCS, tDCS parameters, Food reward, Food craving, Subjective appetite]
+tags: [tDCS]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -45,7 +39,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: nibs-workshop-2021
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -61,6 +55,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: 
   - nibs-eating-behaviour
 ---
