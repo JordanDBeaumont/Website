@@ -70,7 +70,7 @@ experience:
     company_logo: uol
     location: Leeds, UK
     date_start: '2021-07-12'
-    date_end: ''
+    date_end: '2022-06-30'
     description: |2-
         Working on the EU-funded SWEET study, looking at the effects of sugar replacements in the diet. Role involves working in wet laboratory, centrifuging, aliquoting and storing biological samples.
 
